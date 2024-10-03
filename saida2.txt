@@ -1,0 +1,20 @@
+Ordenando agora uma lista com 100 numeros 
+O tempo final da sequencia de tamanho: 100foi :0.002024412155151367
+ 
+ 
+Ordenando agora uma lista com 1000 numeros 
+O tempo final da sequencia de tamanho: 1000foi :0.004713535308837891
+ 
+ 
+Ordenando agora uma lista com 10000 numeros 
+O tempo final da sequencia de tamanho: 10000foi :0.030989885330200195
+ 
+ 
+Ordenando agora uma lista com 100000 numeros 
+O tempo final da sequencia de tamanho: 100000foi :0.48198533058166504
+ 
+ 
+Ordenando agora uma lista com 1000000 numeros 
+O tempo final da sequencia de tamanho: 1000000foi :25.896117448806763
+ 
+ 
